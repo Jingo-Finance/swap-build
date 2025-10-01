@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_darkflorist_horswap=self.webpackChunk_darkflorist_horswap||[]).push([[4457],{54457:(e,r,s)=>{s.r(r),s.d(r,{default:()=>u});var a=s(42893),d=s(80815),o=s(80657),t=s(58025),c=s(71531);function u(){const{currencyIdA:e,currencyIdB:r}=(0,o.UO)(),{chainId:s}=(0,d.useWeb3React)(),u="ETH"===e||void 0!==s&&e===t.Fl[s]?.address,l="ETH"===r||void 0!==s&&r===t.Fl[s]?.address;return e&&r&&(e.toLowerCase()===r.toLowerCase()||u&&l)?(0,a.jsx)(o.Fg,{to:`/add/${e}`,replace:!0}):(0,a.jsx)(c.default,{})}}}]);
+//# sourceMappingURL=4457.e7cc51b3.chunk.js.map
